@@ -1,0 +1,83 @@
+body{
+    background: #cccbcb;
+    margin:10px 20px;
+    background-image: url(background4.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    }
+.name{
+        color:white;
+        font-family:"Comic Sans MS", cursive, sans-serif;
+        background-color: #7EAD07;
+        padding-top:15px;
+        padding-left: 20px;
+        border-color:#7EAD07;
+        border-style: solid;
+        border-width: 5px;
+        border-radius: 10px; 
+        margin-top: 0;
+         
+    }
+.elec-eng{
+        font-size:80%;
+        padding-left:10px;
+        padding-bottom:100px;
+    }
+.hashem-photo{
+        width:200px;
+        height: 300px;
+        border-color:#7EAD07;
+        border-style: solid;
+        border-width: 15px;
+        border-radius: 10px;
+    }
+.personal-info{
+        font-family:"Trebuchet MS", Helvetica, sans-serif;
+        background-color:white;
+        padding-top:30px;
+        padding-left: 20px;
+        width:250px;
+        border-color:#7EAD07;
+        border-style: solid;
+        border-width: 5px;
+        border-radius: 10px;   
+    }
+.photoAndInfo{
+        display: flex;
+        margin-top: -100px;
+        margin-left:30%;
+    }
+    .icons{
+        
+        display: flex;
+        float:left;
+    }
+    .icon{width:50px;
+        height: 50px;
+
+    }
+.heading{
+        font-family:"Comic Sans MS", cursive, sans-serif;
+        font-size: 140%;
+        color: #7EAD07;
+        margin-left:30%;
+    }
+    
+.paragraph{
+        width:450px;
+        background:white;
+        font-family:Georgia, Helvetica, sans-serif; 
+        border-color:#7EAD07;
+        border-style: solid;
+        border-width: 5px;
+        padding: 15px 10px;
+        border-radius: 10px;
+        margin-left:30%;
+        
+    }
+   
+    
+    
